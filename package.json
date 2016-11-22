@@ -1,0 +1,27 @@
+{
+  "name": "node-server-project",
+  "version": "1.0.0",
+  "description": "A node.js server project",
+  "main": "app.js",
+  "dependencies": {
+    "del": "^2.2.2",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-load-plugins": "^1.4.0",
+    "yargs": "^6.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shimizacken/node-server-project.git"
+  },
+  "author": "Shimi Zacken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shimizacken/node-server-project/issues"
+  },
+  "homepage": "https://github.com/shimizacken/node-server-project#readme"
+}
